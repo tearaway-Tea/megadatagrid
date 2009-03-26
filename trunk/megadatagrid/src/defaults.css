@@ -1,0 +1,10 @@
+CloseableHeaderRenderer 
+{
+	icon: ClassReference("org.goverla.constants.Icons_ICON_9x9_CLOSE");
+}
+
+ExpandableGroupHeaderRenderer
+{
+	expand-icon: ClassReference("org.goverla.constants.Icons_ICON_9x9_PLUS");
+	collapse-icon: ClassReference("org.goverla.constants.Icons_ICON_9x9_MINUS");
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<componentPackage>
+    <component id="MegaDataGridColumn" class="org.goverla.controls.advancedDataGridClasses.MegaDataGridColumn"/>
+    <component id="MegaDataGridColumnGroup" class="org.goverla.controls.advancedDataGridClasses.MegaDataGridColumnGroup"/>
+</componentPackage>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties version="1">
+  <includeClasses>
+    <classEntry path="org.goverla.constants.MegaDataGridIcons"/>
+    <classEntry path="org.goverla.controls.advancedDataGridClasses.MegaDataGridColumn"/>
+    <classEntry path="org.goverla.controls.advancedDataGridClasses.MegaDataGridColumnGroup"/>
+    <classEntry path="org.goverla.events.HeaderRendererEvent"/>
+    <classEntry path="org.goverla.renderers.CloseableClassFactory"/>
+    <classEntry path="org.goverla.renderers.CloseableHeaderRenderer"/>
+    <classEntry path="org.goverla.renderers.CloseableRendererDecorator"/>
+    <classEntry path="org.goverla.renderers.ExpandableGroupHeaderRenderer"/>
+    <classEntry path="org.goverla.renderers.RollOverRendererInjector"/>
+  </includeClasses>
+  <includeResources>
+    <resourceEntry destPath="manifest.xml" sourcePath="manifest.xml"/>
+    <resourceEntry destPath="defaults.css" sourcePath="defaults.css"/>
+  </includeResources>
+  <namespaceManifests>
+    <namespaceManifestEntry manifest="manifest.xml" namespace="http://www.goverla.org/2009/library"/>
+  </namespaceManifests>
+</flexLibProperties>
